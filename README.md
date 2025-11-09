@@ -46,5 +46,5 @@ Portfolio-Website/
 ## 📬 Contact
 
 - 📌 Ishwar Lal Khatri
-- 🌐 GitHub: https://github.com/Boomerk27
+- 🌐 GitHub: https://github.com/0xSecIshOps
 - 📧 Email: ishwark272001@gmail.com
